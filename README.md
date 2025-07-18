@@ -3,6 +3,7 @@
 
 ## 📌Project Overview
 This project analyzes user behavior on the Aave V2 protocol and scores wallets based on action patterns using unsupervised clustering and rule-based credit scoring.
+📊 [View Full Behavioral Analysis & Scoring Methodology](analysis.md)
 
 ## 💡Problem Statement
 To score wallets based on their behavioral patterns such as deposits, borrows, liquidations, etc., by analyzing on-chain transaction data.
