@@ -1,0 +1,32 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+*.json
+*.csv
+*.zip
+*.gz
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# VSCode or IDE settings (optional)
+.vscode/
+.idea/
+*.code-workspace
