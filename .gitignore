@@ -17,7 +17,6 @@ Thumbs.db
 
 # Large datasets
 *.json
-*.csv
 *.zip
 *.gz
 
