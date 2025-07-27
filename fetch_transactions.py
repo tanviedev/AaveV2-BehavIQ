@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from tqdm import tqdm
 
-ETHERSCAN_API_KEY = "RRGU9DC9CXQKTFVFF78ZPG79KRP1BKNAG8"
+ETHERSCAN_API_KEY = "my_api_key"
 
 def get_transactions(wallet):
     url = (
