@@ -3,7 +3,7 @@
 ### *"The IQ of Behavior Meets the Future of Finance"*
 
 📊 [View Full Behavioral Analysis & Scoring Methodology](analysis.md)
-📥 [Download Final Behavioral Wallet Scores (CSV)](./Final_Behavioral_Wallet_Scores.csv)
+📥 [Download Final Behavioral Wallet Scores (CSV)](data/final_wallet_data_with_scores.csv)
 
 ---
 
