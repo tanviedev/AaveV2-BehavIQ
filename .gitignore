@@ -30,3 +30,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.code-workspace
+
+# Ignore data folder
+data/
