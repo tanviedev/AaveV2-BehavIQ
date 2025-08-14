@@ -19,6 +19,7 @@ Thumbs.db
 *.json
 *.zip
 *.gz
+*.csv
 
 # Logs and temporary files
 *.log
